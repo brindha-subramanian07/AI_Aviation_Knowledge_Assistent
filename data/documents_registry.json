@@ -1,0 +1,47 @@
+{
+  "doc_b605e3755d0cf308": {
+    "document_id": "doc_b605e3755d0cf308",
+    "filename": "Aircraft_Maintenance_Manual_B737.pdf",
+    "document_type": "PDF",
+    "file_size_bytes": 4354,
+    "file_size_formatted": "4.3 KB",
+    "total_pages": 3,
+    "total_chunks": 3,
+    "raw_hash": "b605e3755d0cf3083c1686596e463d72242bc6c78b9b1735e35e4ac4dcb41dc0",
+    "uploaded_at": "2026-10-07 15:13:36",
+    "status": "Indexed",
+    "file_path": "C:\\Users\\Brindha subramanian\\OneDrive\\Documents\\KE_MINI_PROJECT\\data\\uploads\\doc_b605e3755d0cf308_Aircraft_Maintenance_Manual_B737.pdf",
+    "ocr_warning": false,
+    "warning_message": null
+  },
+  "doc_63890a96244a90e6": {
+    "document_id": "doc_63890a96244a90e6",
+    "filename": "Flight_Operations_Safety_Guidelines.docx",
+    "document_type": "DOCX",
+    "file_size_bytes": 37975,
+    "file_size_formatted": "37.1 KB",
+    "total_pages": 1,
+    "total_chunks": 1,
+    "raw_hash": "63890a96244a90e64dac245493e3180c13b00de377208968f4942474651689ea",
+    "uploaded_at": "2026-10-07 15:13:37",
+    "status": "Indexed",
+    "file_path": "C:\\Users\\Brindha subramanian\\OneDrive\\Documents\\KE_MINI_PROJECT\\data\\uploads\\doc_63890a96244a90e6_Flight_Operations_Safety_Guidelines.docx",
+    "ocr_warning": false,
+    "warning_message": null
+  },
+  "doc_a116eb2136541f6c": {
+    "document_id": "doc_a116eb2136541f6c",
+    "filename": "Emergency_Response_and_Runway_Safety.txt",
+    "document_type": "TXT",
+    "file_size_bytes": 3599,
+    "file_size_formatted": "3.5 KB",
+    "total_pages": 2,
+    "total_chunks": 2,
+    "raw_hash": "a116eb2136541f6c55f65f1c224f762fdf10fe3aa4e591d0872eec3fdcd27e2d",
+    "uploaded_at": "2026-10-07 15:13:36",
+    "status": "Indexed",
+    "file_path": "C:\\Users\\Brindha subramanian\\OneDrive\\Documents\\KE_MINI_PROJECT\\data\\uploads\\doc_a116eb2136541f6c_Emergency_Response_and_Runway_Safety.txt",
+    "ocr_warning": false,
+    "warning_message": null
+  }
+}

@@ -1,0 +1,54 @@
+INSTITUTIONAL AVIATION SAFETY PROTOCOL
+DOCUMENT: AIRPORT OPERATIONS & RUNWAY SAFETY MANUAL (AORS-MAN-09)
+TOPIC: RUNWAY INCURSION PREVENTION, RUNWAY SAFETY, AND EMERGENCY RESPONSE
+
+======================================================================
+CHAPTER 1: RUNWAY SAFETY & INCURSION MITIGATION PROCEDURES
+======================================================================
+
+1.1 DEFINITION OF RUNWAY INCURSION
+A runway incursion is any occurrence at an aerodrome involving the incorrect presence of an aircraft,
+vehicle, or person on the protected area of a surface designated for the landing and takeoff of aircraft.
+
+1.2 HOLD SHORT COMPLIANCE
+- Pilots and ground vehicle drivers must never cross a solid hold short line without an explicit ATC clearance.
+- An ATC instruction such as "Taxi to Runway 28R" is NOT a clearance to cross or enter Runway 28R.
+- Flight crews must explicitly read back all runway hold short instructions, including runway designation.
+- Both pilots must verify visual runway clearance (left and right) before crossing any active runway threshold.
+
+1.3 LOW VISIBILITY RUNWAY SAFETY PROCEDURES (LVP)
+When Runway Visual Range (RVR) drops below 600 meters or ceiling drops below 200 feet:
+- Low Visibility Operations (LVO) are declared by Air Traffic Control.
+- Surface movement radar (ASDE-X) tracking is mandated for all movements.
+- Aircraft must maintain standard taxi speeds not exceeding 10 knots on curved taxiways.
+- Intersection takeoffs are strictly prohibited during LVO; full runway length departures are required.
+- Runway stop bar lights must remain illuminated; crossing an illuminated red stop bar is an acute safety violation.
+
+======================================================================
+CHAPTER 2: EMERGENCY PROCEDURES - REJECTED TAKEOFF (RTO)
+======================================================================
+
+2.1 REJECTED TAKEOFF DECISION CRITERIA
+The decision to reject a takeoff must be made before reaching V1 (takeoff decision speed):
+- Below 80 knots: Reject takeoff for any master caution, system failure, engine anomaly, or unusual noise.
+- Between 80 knots and V1: Reject ONLY for fire warning, engine failure, catastrophic windshear alert,
+  or an unsafe condition that renders the aircraft unflyable.
+- Above V1: The aircraft MUST continue the takeoff. Rejecting above V1 risks catastrophic runway overrun.
+
+2.2 RTO EXECUTION SEQUENCE
+1. Captain simultaneously closes thrust levers and applies maximum manual wheel braking (or verifies RTO autobrake engagement).
+2. Deploy reverse thrust to maximum allowable level.
+3. Deploy speedbrakes/ground spoilers immediately.
+4. Stop aircraft on runway, set parking brake, and notify ATC with "MAYDAY, MAYDAY, MAYDAY".
+5. Direct fire rescue teams to inspect wheel brakes for thermal fuse plug deflation or tire fires.
+
+======================================================================
+CHAPTER 3: AIRPORT RESCUE AND FIREFIGHTING (ARFF) COORDINATION
+======================================================================
+
+3.1 EMERGENCY RESPONSE CLASSIFICATIONS
+- Alert 1 (Local Standby): An approaching aircraft has known minor defect; response units position on standby.
+- Alert 2 (Full Emergency): An aircraft has major system impairment (e.g., engine fire, hydraulic loss, gear failure);
+  all ARFF crash tenders deploy to designated runway staging areas.
+- Alert 3 (Aircraft Accident): An aircraft accident has occurred on or adjacent to airport property;
+  immediate mutual aid response and emergency triage activated.
